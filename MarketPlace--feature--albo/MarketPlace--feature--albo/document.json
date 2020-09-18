@@ -1,0 +1,73 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "F2DA84B1-1627-4F67-9F0D-4614E5A1DD35",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "CE2777CC-1987-4E61-ABB1-A455C0C7F0F3",
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "65.1",
+    "build": 95501,
+    "version": 127
+  },
+  "pages": [
+    "Page 1",
+    "Page 4",
+    "Page 3",
+    "Page 2",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5e0f8cfb8673a510135e3fd9": {
+          "name": "Design System Mijo",
+          "styleguideId": "5e0f8cfb8673a510135e3fd9",
+          "updatedOn": "2020-06-23 01:08:48 +0000"
+        },
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
