@@ -1,0 +1,157 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90B97505-BF15-47AA-AA41-26D2F025DF44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 327,
+    "width": 983,
+    "x": 0,
+    "y": 866
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": " CRSection--featuredproducts Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE5680F2-0A8B-455E-9D5D-BA66C27AD16E/72D8C2EE-AB4B-4180-9BFA-7D2CFDAFCCE0_stringValue",
+      "value": "Re Arte en Flores"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "422EBB16-37CE-457A-BB9F-A2A7F62FCCDD/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/27b4aee91471156ee586e915b41f8d21d2b61662.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB9376FD-2D66-4D5A-84F3-B6A59E8F5A64/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8c6823cba3178273937fdd005cbfb14552d2259e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4EEBBCD-DF2A-4031-80B9-990D98982B18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/37fedebdea1c1ad3d44d58e950bf2ddb24b402e2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67FFA131-6B32-4974-81A3-FB683F2E9BE9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/60b6f2efcc0f8bb62bcb628b2f318076e43e5c99.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21D8EF14-4D20-4A48-919C-63264B48E7A7_stringValue",
+      "value": "¡Ir a tienda!"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AF884EF-0A08-4BEA-A1A3-6838A1E759B6_stringValue",
+      "value": "Ver más de \nRe arte en flores"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EDF52161-E693-452B-9D8F-07918BB2925A/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a1c7203e0eddbae643061bdb0020ea48fce319bc.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "110AE678-BEF3-4469-8D6E-CD62F9D30CAA/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/49a6fe1a1e8a506ee22682081021b0997516bfc7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FF00EC96-DAC5-4F3D-B278-C17A6ACC7B0C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0727420-FC95-4947-A135-91D623988C41",
+  "verticalSpacing": 0
+}

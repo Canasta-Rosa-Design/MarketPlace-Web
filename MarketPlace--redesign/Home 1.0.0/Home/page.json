@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A60B7425-57DF-4366-9B86-C335E8EC7CCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "21FB4231-B3C9-4DA1-8702-4434DC0A5641"
+    }
+  ],
+  "name": "Home",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "679A259F-0F6D-4CA0-A49C-D4C466C47A11",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"6B1C699F-D29A-48F9-9869-48570BAFA7BD.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/categories\\/\",\"hash\":\"68ce975feca5c85177091b44f712f4a33d5f265a\"},{\"path\":\"DCCEE2B2-551C-4C7C-937C-BE8B8E71D5B1.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/featured\\/market\\/products\\/\",\"hash\":\"16df2acfa7f5dbf7a0a25c2a62dfb935f3e844ee\"},{\"path\":\"58E1E675-2F86-4A62-9187-A8D3500EB20E.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/featured\\/market\\/stores\\/\",\"hash\":\"361f1f8901b94a298f08bc11d64e14e29545d347\"},{\"path\":\"B5F4D6CB-1AD2-4DDD-961C-B76990CA6F26.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/marketing\\/landing-pages\\/\",\"hash\":\"f475e4fe4a88114938f372ab71021dbadee0b010\"},{\"path\":\"B7479EEA-9FFC-4995-A005-F060FD3918E3.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/inspire\\/articles\\/\",\"hash\":\"830066dc044ab8221f7bc734ef41ea7066571e22\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

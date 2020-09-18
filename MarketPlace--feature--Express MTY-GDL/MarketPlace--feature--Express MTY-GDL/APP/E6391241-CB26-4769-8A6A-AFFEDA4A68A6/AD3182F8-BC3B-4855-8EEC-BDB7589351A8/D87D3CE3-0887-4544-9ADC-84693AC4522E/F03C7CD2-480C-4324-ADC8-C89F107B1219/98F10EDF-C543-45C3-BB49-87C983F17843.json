@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98F10EDF-C543-45C3-BB49-87C983F17843",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 327,
+    "width": 983,
+    "x": 0,
+    "y": 539
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": " CRSection--featuredproducts Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE5680F2-0A8B-455E-9D5D-BA66C27AD16E/72D8C2EE-AB4B-4180-9BFA-7D2CFDAFCCE0_stringValue",
+      "value": "Productos populares"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "422EBB16-37CE-457A-BB9F-A2A7F62FCCDD/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1c4852770a3769f81fb44353316d7765e20ad195.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB9376FD-2D66-4D5A-84F3-B6A59E8F5A64/EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a6c0df47ccf467c66d5b5cad1a43e014a1d5eb88.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AF884EF-0A08-4BEA-A1A3-6838A1E759B6_stringValue",
+      "value": "Miles de productos increíbles"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5C2BB359-AF82-4B69-804B-0BF6FF544181",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0727420-FC95-4947-A135-91D623988C41",
+  "verticalSpacing": 0
+}

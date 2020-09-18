@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2973F43B-A280-4B47-BFEB-061FB053B4BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 254,
+    "x": 264,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CRStoreCard Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C412F415-507B-4ED7-8720-AB70424080FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/185437ed372cfa523a234705e14ed34052825ce1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA0DAB91-09FD-4B32-BE43-D506C9141F4B_stringValue",
+      "value": "DOMINNA THINGS"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F99B50A-A588-457C-9C18-61AAE5AC4B71_stringValue",
+      "value": "Vive con estilos"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62B7F4C2-7427-4AE0-B7FA-DEF9AF2DFD15_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/35c512ee5a4bc7073200a893cc75f397b1ed4ee4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C1BFF29A-68A8-467E-9F9C-D85810643CA5",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "798F8FAC-415F-455C-80BF-651B436D9E81",
+  "verticalSpacing": 0
+}

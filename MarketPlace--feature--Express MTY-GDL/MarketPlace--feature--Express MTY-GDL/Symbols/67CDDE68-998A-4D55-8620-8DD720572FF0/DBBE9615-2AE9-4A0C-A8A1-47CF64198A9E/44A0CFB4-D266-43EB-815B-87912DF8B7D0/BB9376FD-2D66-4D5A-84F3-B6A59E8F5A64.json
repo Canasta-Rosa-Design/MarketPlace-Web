@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB9376FD-2D66-4D5A-84F3-B6A59E8F5A64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 263,
+    "width": 154,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CRProductCard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AD91AB6A-EC88-4593-8AF3-52B30D1CBAE7_stringValue",
+      "value": "Promoció-Cleanin…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1BFC81C2-3D02-4772-9D1E-E4ACAE6E5E2D_stringValue",
+      "value": "Botanique México"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04831F80-B370-4E2D-B938-A5C0FB5F52C0_stringValue",
+      "value": "$748.00MX"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA568F76-99A7-4C96-A4EE-5010448AABB5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/13c0c7ea266e05934db838191b22b2595b316f9f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "9CF39E78-4223-4C31-BD57-3FC40CE6BE73",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11E2A71E-6C3C-4B84-8026-0DEBC45344E2",
+  "verticalSpacing": 0
+}
