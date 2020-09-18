@@ -1,0 +1,66 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "4716F231-F6FC-475E-97A0-007F5804662A",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "68DE1F84-D580-406D-A4AB-20AAB3E869BF",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "63.1",
+    "build": 92452,
+    "version": 123
+  },
+  "pages": [
+    "Cart",
+    "Cart--addressError",
+    "Checkout",
+    "Checkout--addressError",
+    "Checkout--addressModal",
+    "Checkout productCard",
+    "Symbols",
+    "Checkout--Legacy"
+  ],
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5e0f8cfb8673a510135e3fd9": {
+          "name": "Design System Mijo",
+          "styleguideId": "5e0f8cfb8673a510135e3fd9",
+          "updatedOn": "2020-03-19 21:28:00 +0000"
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

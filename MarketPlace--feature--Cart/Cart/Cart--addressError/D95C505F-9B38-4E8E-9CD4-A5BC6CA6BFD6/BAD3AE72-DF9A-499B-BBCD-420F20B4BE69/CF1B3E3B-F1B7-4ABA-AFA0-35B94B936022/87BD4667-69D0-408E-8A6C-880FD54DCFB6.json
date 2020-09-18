@@ -1,0 +1,140 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "87BD4667-69D0-408E-8A6C-880FD54DCFB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 561,
+    "width": 428,
+    "x": 0,
+    "y": 485
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cr__storeCart--tablet Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "47643C7A-2479-4849-96AC-C09551D89404_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f61c885ba4088fce8f6381ed39b4b4157820245.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9EE06C8-057E-4241-89F3-809A6C1F2181_stringValue",
+      "value": "Bare Ark"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "100FD10D-FC33-4321-ACFA-88CB072357DD/26E90290-81A3-4F17-8B08-D111995C29B5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a6c0df47ccf467c66d5b5cad1a43e014a1d5eb88.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F956A889-E8C7-4AC5-A259-6D83C17E80A7/26E90290-81A3-4F17-8B08-D111995C29B5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/87cc00947f086068ee5526a1b917f7201b3af0a5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "100FD10D-FC33-4321-ACFA-88CB072357DD/2A2C9731-AED1-486F-950F-4B9BD564361D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F956A889-E8C7-4AC5-A259-6D83C17E80A7/2A2C9731-AED1-486F-950F-4B9BD564361D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "100FD10D-FC33-4321-ACFA-88CB072357DD/28ACAAC0-7104-47F6-84CA-C1893013BA3E_stringValue",
+      "value": "Donas de cacao Keto cero calorías"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F956A889-E8C7-4AC5-A259-6D83C17E80A7/28ACAAC0-7104-47F6-84CA-C1893013BA3E_stringValue",
+      "value": "Keto Matcha + 1pz dona KETO"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C5DA603B-9F05-49CD-805F-545F8ADB4F4A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CA67B13-4D91-40A6-85BE-1C7E5B1DE5A4",
+  "verticalSpacing": 0
+}

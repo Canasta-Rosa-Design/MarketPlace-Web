@@ -1,0 +1,150 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "971B05CE-AA55-4019-AD89-DFFFEAEC8C13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 628,
+    "width": 300,
+    "x": 0,
+    "y": 652
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cr__storeCart--mobile Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D17848E9-E362-476E-9F70-EC308115C2DA/0BFD57C6-7A00-413C-A842-72003CB2653D_stringValue",
+      "value": "$550.00MX"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62F83FB0-BC1C-4BA2-8ED8-96C2FE9C72F9/0BFD57C6-7A00-413C-A842-72003CB2653D_stringValue",
+      "value": "$650.00MX"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7ED57667-6554-439B-9EEE-548B18CB69CA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f61c885ba4088fce8f6381ed39b4b4157820245.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2DEA739-A361-40C5-8D42-4E8F813FDDE5_stringValue",
+      "value": "Bare Ark"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62F83FB0-BC1C-4BA2-8ED8-96C2FE9C72F9/CBD51449-3731-4CB4-9510-1EFBE1BA68D0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a6c0df47ccf467c66d5b5cad1a43e014a1d5eb88.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D17848E9-E362-476E-9F70-EC308115C2DA/CBD51449-3731-4CB4-9510-1EFBE1BA68D0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/87cc00947f086068ee5526a1b917f7201b3af0a5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62F83FB0-BC1C-4BA2-8ED8-96C2FE9C72F9/8AC62F4A-30AB-49CA-AB3B-713813BA38B5_stringValue",
+      "value": "Donas de cacao Keto cero calorías"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D17848E9-E362-476E-9F70-EC308115C2DA/8AC62F4A-30AB-49CA-AB3B-713813BA38B5_stringValue",
+      "value": "Keto Matcha + 1pz dona KETO"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D17848E9-E362-476E-9F70-EC308115C2DA/6FB4B11D-F455-4BDD-8BDF-6F69C417219D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62F83FB0-BC1C-4BA2-8ED8-96C2FE9C72F9/6FB4B11D-F455-4BDD-8BDF-6F69C417219D_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "21743982-7511-4F32-8176-BB4C6B2563E1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EA31BD5-FC5C-4D3D-9AE3-93043D694572",
+  "verticalSpacing": 0
+}
