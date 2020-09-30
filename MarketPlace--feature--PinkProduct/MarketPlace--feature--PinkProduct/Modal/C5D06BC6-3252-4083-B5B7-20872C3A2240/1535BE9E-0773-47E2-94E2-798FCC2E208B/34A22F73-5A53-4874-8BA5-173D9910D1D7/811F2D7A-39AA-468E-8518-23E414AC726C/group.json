@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "1C898EEE-F6DB-45E3-8905-D08BD4AA40F3",
+  "do_objectID": "811F2D7A-39AA-468E-8518-23E414AC726C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,30 +12,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 935,
-    "width": 1200,
-    "x": 0.5419999999999163,
-    "y": 0.03499999999985448
+    "height": 273,
+    "width": 400,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/898264ef82f6af38c6bc3abc7dc3875ed5936c25.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "05ECC0EB-0A4C-41A5-B39E-CFE8F74422CE"
+    },
+    {
+      "class": "bitmap",
+      "id": "1C898EEE-F6DB-45E3-8905-D08BD4AA40F3"
+    }
+  ],
   "name": "confetti",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -75,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8B17C140-546F-49CE-8A38-128FB3B35BFA",
+    "do_objectID": "4191C6C1-3F22-42D0-B04D-48213392DA12",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "34A22F73-5A53-4874-8BA5-173D9910D1D7",
+  "do_objectID": "1C898EEE-F6DB-45E3-8905-D08BD4AA40F3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,42 +13,31 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 273,
-    "width": 400,
-    "x": 370,
-    "y": 268
+    "height": 408,
+    "width": 523,
+    "x": -84,
+    "y": -27
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/898264ef82f6af38c6bc3abc7dc3875ed5936c25.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "811F2D7A-39AA-468E-8518-23E414AC726C"
-    },
-    {
-      "class": "group",
-      "id": "1911417A-8854-48C7-BB5C-F86D1688679D"
-    },
-    {
-      "class": "group",
-      "id": "64CC8B00-6A02-4225-BEEF-685BB5E633BD"
-    }
-  ],
-  "name": "Modal",
+  "layerListExpandedType": 0,
+  "name": "confetti",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -85,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8FC2AB5-A091-43D6-8039-93D0A475ED08",
+    "do_objectID": "8B17C140-546F-49CE-8A38-128FB3B35BFA",
     "endMarkerType": 0,
     "fills": [
     ],
