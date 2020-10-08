@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C9F1A0D3-B192-4533-BB8B-4763115789C1"
+      "id": "90F04521-846F-46B4-9368-B46C79EB40CD"
     }
   ],
   "name": "Artboard--Tablet",

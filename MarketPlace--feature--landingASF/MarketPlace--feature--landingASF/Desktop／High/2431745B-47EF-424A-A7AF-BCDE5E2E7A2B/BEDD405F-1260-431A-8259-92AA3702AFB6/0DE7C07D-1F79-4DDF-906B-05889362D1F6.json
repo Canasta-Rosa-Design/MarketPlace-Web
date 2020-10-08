@@ -28,7 +28,7 @@
         "location": 0
       }
     ],
-    "string": "Tiendas increíbles"
+    "string": "Tiendas asombrosas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,7 +52,7 @@
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{0, 6}, {176, 18}}",
+  "glyphBounds": "{{0, 6}, {197, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Tiendas increíbles",
+  "name": "Tiendas asombrosas",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

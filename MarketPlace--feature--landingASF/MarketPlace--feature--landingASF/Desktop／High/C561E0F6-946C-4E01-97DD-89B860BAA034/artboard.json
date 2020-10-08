@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "55536892-A882-4ED2-B672-81C56E9C8101"
+      "id": "264F8AC5-BA54-4E0B-B421-7F7DDBCD3B5D"
     }
   ],
   "name": "Artboard--Mobile",
