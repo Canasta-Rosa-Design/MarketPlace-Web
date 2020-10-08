@@ -1,0 +1,131 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C5D6EC8-F14C-40C4-9F42-25A7DAC2844D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 180,
+    "x": 0,
+    "y": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05F83E09-3B4E-43C1-A2C4-4F05F2403CCD"
+    }
+  ],
+  "name": "Interest/selected Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "166F906E-0B9E-468F-9D22-2FEEE6B97334",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "C956AF8B-CE64-46E9-8F67-352797C09551",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 225,
+          "x": 0,
+          "y": 40
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "2C491001-3154-4380-9FD4-C5CEE7240C4C",
+        "symbolID": "A9A79309-7148-464E-8966-F12B84931063"
+      }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/categories\\/\",\"paths\":{\"selection\":[\"1\",\"children\"],\"repeat\":[\"name\"]},\"path\":\"BBC0CB58-B8E7-4674-8FB6-20068AADDE77.json\"}"
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "C956AF8B-CE64-46E9-8F67-352797C09551",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 225,
+          "x": 0,
+          "y": 40
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "2C491001-3154-4380-9FD4-C5CEE7240C4C",
+        "symbolID": "A9A79309-7148-464E-8966-F12B84931063"
+      }
+    }
+  }
+}

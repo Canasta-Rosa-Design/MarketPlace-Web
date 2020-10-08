@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
+            "blue": 0.3254901960784314,
+            "green": 0.2862745098039216,
+            "red": 0.2862745098039216
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Sarabun-Regular",
-              "size": 16
+              "name": "Sarabun-SemiBold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -52,7 +52,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {84, 16}}",
+  "glyphBounds": "{{0, 5}, {98, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "62A15371-15E9-4A44-A2CC-802A75ABF232",
+  "sharedStyleID": "EE7CF48B-D67B-4468-9E1D-5B22E4D91AE0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -118,15 +118,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2431372549019608,
-          "green": 0.2156862745098039,
-          "red": 0.2156862745098039
+          "blue": 0.3254901960784314,
+          "green": 0.2862745098039216,
+          "red": 0.2862745098039216
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Sarabun-Regular",
-            "size": 16
+            "name": "Sarabun-SemiBold",
+            "size": 18
           }
         },
         "paragraphStyle": {

@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4D38BB4-3422-40EC-AAAA-8EFE1D0AB495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 188,
+    "x": 594,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BCC0776A-51D4-4951-89B5-013D316280E1"
+    }
+  ],
+  "name": "CRProductCard/full Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "18A8F92A-9B4C-4755-84EB-1F5E79C67C11",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "19A0BAD5-4B26-4CDA-8A61-779C39BF1354",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 300,
+          "width": 188,
+          "x": 322,
+          "y": 317
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "306A7D3C-C7CC-4581-B1A8-0022D7405117",
+        "symbolID": "0A8D3D01-44DD-45E1-B38A-4EB563B51362"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "19A0BAD5-4B26-4CDA-8A61-779C39BF1354",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 300,
+          "width": 188,
+          "x": 322,
+          "y": 317
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "306A7D3C-C7CC-4581-B1A8-0022D7405117",
+        "symbolID": "0A8D3D01-44DD-45E1-B38A-4EB563B51362"
+      }
+    }
+  }
+}

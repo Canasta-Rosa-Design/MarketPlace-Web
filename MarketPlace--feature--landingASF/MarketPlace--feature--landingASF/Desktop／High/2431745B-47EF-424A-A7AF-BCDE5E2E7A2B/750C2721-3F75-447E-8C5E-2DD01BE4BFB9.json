@@ -1,0 +1,167 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "750C2721-3F75-447E-8C5E-2DD01BE4BFB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 1280,
+    "x": 0,
+    "y": 262
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "803B4A42-B38D-4370-A862-E73785F5C0FB/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4c650d1e742cdcab536949d815319dc9c4b69173.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "803B4A42-B38D-4370-A862-E73785F5C0FB/E4B0B5CE-D71A-4C5C-95C2-3BC787BCD27C_stringValue",
+      "value": "Comida"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B69F5845-2E8F-4D99-95DA-EFE63448D1AB/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/55048c633a128f4a6f8626ea296bada00b30592f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC4BAE4B-7A41-47DA-8A22-ADE7C09FD424/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dbc4c4bd08714b9a813a17c6dc18232e7ffba35b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13D623F4-E85B-405C-8C83-7C78EB0CBEFF/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6313d5bc8b6a4cafcdfa4e21482d579d37c85da8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13D623F4-E85B-405C-8C83-7C78EB0CBEFF/E4B0B5CE-D71A-4C5C-95C2-3BC787BCD27C_stringValue",
+      "value": "Flores y regalos"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B69F5845-2E8F-4D99-95DA-EFE63448D1AB/E4B0B5CE-D71A-4C5C-95C2-3BC787BCD27C_stringValue",
+      "value": "Mascotas"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC4BAE4B-7A41-47DA-8A22-ADE7C09FD424/E4B0B5CE-D71A-4C5C-95C2-3BC787BCD27C_stringValue",
+      "value": "Infantil"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F8A3F92-A7DA-43E1-9A54-49F305E1A8A9/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/954c9fd6d9129bf38d366caef72eb0d740f1c077.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F8A3F92-A7DA-43E1-9A54-49F305E1A8A9/E4B0B5CE-D71A-4C5C-95C2-3BC787BCD27C_stringValue",
+      "value": "Diseño"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA3B0718-654C-40FE-9056-35740A3056AC/F322C000-9B22-4ABD-A55F-D1EE6C6A8858_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1453770633dce13f0e131b9a0ca4751ea3ff86e8.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "0EBC5C6A-3873-4D49-9F40-1A9D9B9B49CF",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABA8B6A1-7F01-4F1E-9A6C-8219DB581378",
+  "verticalSpacing": 0
+}

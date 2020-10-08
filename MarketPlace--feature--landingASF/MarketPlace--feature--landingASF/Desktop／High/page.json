@@ -1,0 +1,142 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "471B2875-3280-43D8-8029-4DF6EE8D64DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -359,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "2431745B-47EF-424A-A7AF-BCDE5E2E7A2B"
+    },
+    {
+      "class": "artboard",
+      "id": "95174960-8CE5-4023-9866-CAC9A961EB59"
+    },
+    {
+      "class": "artboard",
+      "id": "72DE940F-069E-4856-B033-D84A9FD858D8"
+    },
+    {
+      "class": "artboard",
+      "id": "B1FC5E05-629B-446B-9E95-77DB7BC2FB40"
+    },
+    {
+      "class": "artboard",
+      "id": "9CEB0CFA-6AF1-4F45-9AFC-0CB05088943D"
+    },
+    {
+      "class": "artboard",
+      "id": "2D5E92B7-6DCA-4FD1-A62F-E0CB613A85BC"
+    },
+    {
+      "class": "artboard",
+      "id": "E7B98D15-359B-42F6-8628-A04DD6265E8D"
+    },
+    {
+      "class": "artboard",
+      "id": "E869D388-3887-4CA2-B2AE-A26FD76C74E4"
+    },
+    {
+      "class": "artboard",
+      "id": "C561E0F6-946C-4E01-97DD-89B860BAA034"
+    }
+  ],
+  "name": "Desktop/High",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4F9F41A0-2961-4E33-A77A-ADEA753E41E6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"E8BF2A60-748A-4DD4-B30B-0741ADB34F4B.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/featured\\/market\\/products\\/\",\"hash\":\"af20f8b7efd2ea71e72336d45de93f38e7c89457\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -409,
+    "guides": [
+    ]
+  }
+}

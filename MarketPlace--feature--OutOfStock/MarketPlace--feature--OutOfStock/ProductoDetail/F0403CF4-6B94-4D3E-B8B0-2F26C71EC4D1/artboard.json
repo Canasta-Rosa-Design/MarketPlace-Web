@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0403CF4-6B94-4D3E-B8B0-2F26C71EC4D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1158,
+    "width": 319.9999999999999,
+    "x": 1036,
+    "y": 976
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      298
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8BA8E001-F636-47AD-A85C-14413662DAA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D485806D-4C23-4DEB-BDF1-0234A39E42F4"
+    },
+    {
+      "class": "group",
+      "id": "DB71F01C-C809-4911-A1D3-8E3D20A01622"
+    },
+    {
+      "class": "group",
+      "id": "76278C34-6EB4-4DD8-AD4A-0525C0994E6A"
+    },
+    {
+      "class": "shapePath",
+      "id": "24C1C560-F2EE-4081-B5FD-698EF8F54FA8"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7B0DD7A-6E1F-43AA-80BE-4013FDE5D773"
+    },
+    {
+      "class": "group",
+      "id": "812CFF13-3C32-493E-A4DD-4BCF1DD2FF5F"
+    },
+    {
+      "class": "group",
+      "id": "90AB1A23-4685-45B9-9C4D-22B9575E142C"
+    },
+    {
+      "class": "group",
+      "id": "FBFB1DC4-2A14-4724-B0E2-6C653D1D073E"
+    },
+    {
+      "class": "group",
+      "id": "F5D242BA-2688-4E3A-832B-9C598DCD079C"
+    },
+    {
+      "class": "group",
+      "id": "BCEC89FB-59B3-4DA1-80BA-F101DDEB8DA2"
+    },
+    {
+      "class": "group",
+      "id": "4854B6A1-4F8D-413E-A037-E2FBE374DAF6"
+    }
+  ],
+  "name": "Phone/dropdownStock",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D535AD8D-BC6C-421C-8D3F-83C7D0B8034B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      112
+    ]
+  }
+}
