@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 28,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Las categorías han cambiado."
+    "string": "Búsqueda inválida."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 405,
+    "width": 234,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 8}, {339, 27}}",
+  "glyphBounds": "{{1, 8}, {213, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Las categorías han c",
+  "name": "Búsqueda inválida.",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

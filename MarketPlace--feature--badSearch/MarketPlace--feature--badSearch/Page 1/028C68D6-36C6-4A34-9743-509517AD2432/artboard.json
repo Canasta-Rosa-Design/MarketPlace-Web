@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2035,
+    "height": 1932,
     "width": 320,
     "x": 2117,
     "y": 150
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,7 +73,7 @@
     },
     {
       "class": "group",
-      "id": "AA740A1E-E990-4E7F-AD0A-BB0B6DD37EF9"
+      "id": "D8302270-A386-4898-9D9D-CB8936670D52"
     }
   ],
   "name": "Artboard--Mobile",
