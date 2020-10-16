@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 130,
+    "height": 80,
+    "width": 185,
     "x": 0,
     "y": 0
   },
@@ -34,7 +34,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "D2F91DAA-2BC6-46CE-8A9B-6B850FDC7C33_stringValue",
-      "value": "Cremas y sueros"
+      "value": "Desmaquillantes & Corrección de Brillo"
     }
   ],
   "resizingConstraint": 63,

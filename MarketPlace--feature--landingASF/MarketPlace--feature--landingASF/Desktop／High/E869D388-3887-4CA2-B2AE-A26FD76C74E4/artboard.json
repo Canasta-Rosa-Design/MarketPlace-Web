@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 467,
+    "height": 2490,
     "width": 768,
     "x": -1256,
     "y": -642
@@ -70,6 +70,30 @@
     {
       "class": "symbolInstance",
       "id": "90F04521-846F-46B4-9368-B46C79EB40CD"
+    },
+    {
+      "class": "group",
+      "id": "8D7FCA0E-7E8B-4DB3-B5DC-E167ABE99854"
+    },
+    {
+      "class": "group",
+      "id": "3B19CC77-360A-43CE-8BCC-CBFBA6E4F778"
+    },
+    {
+      "class": "text",
+      "id": "492D4922-1F6B-46E9-8CAC-CB1EDEC08848"
+    },
+    {
+      "class": "group",
+      "id": "96CDA397-F67A-4B81-B9D2-43DCADEAE904"
+    },
+    {
+      "class": "bitmap",
+      "id": "7345442C-AE9B-4AE4-B2F9-5D897C010FF0"
+    },
+    {
+      "class": "group",
+      "id": "4F9E020F-8825-4C6A-8FC7-FB66F1C4CFA3"
     }
   ],
   "name": "Artboard--Tablet",

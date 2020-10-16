@@ -37,7 +37,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -89,7 +89,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Artboard--Desktop--large Copy",
+  "name": "Artboard--Desktop--large",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

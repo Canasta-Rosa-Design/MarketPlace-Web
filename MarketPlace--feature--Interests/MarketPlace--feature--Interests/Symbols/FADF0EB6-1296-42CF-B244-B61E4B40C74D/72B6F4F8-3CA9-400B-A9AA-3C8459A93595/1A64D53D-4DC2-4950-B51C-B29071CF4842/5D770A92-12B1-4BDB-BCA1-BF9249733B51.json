@@ -106,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.4627450980392157,
+          "green": 0.2235294117647059,
+          "red": 0.9019607843137255
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -147,7 +147,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -172,10 +172,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.4627450980392157,
+          "green": 0.2235294117647059,
+          "red": 0.9019607843137255
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -219,7 +219,7 @@
           "_ref": "images/a584b6f9c49e8c40efce2d4f3f3e9d52f4afa061.png",
           "_ref_class": "MSImageData"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

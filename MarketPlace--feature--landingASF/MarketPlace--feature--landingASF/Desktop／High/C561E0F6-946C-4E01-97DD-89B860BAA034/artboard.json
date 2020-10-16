@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 467,
+    "height": 2729,
     "width": 320,
     "x": -1705,
     "y": -642
@@ -66,6 +66,30 @@
     {
       "class": "symbolInstance",
       "id": "264F8AC5-BA54-4E0B-B421-7F7DDBCD3B5D"
+    },
+    {
+      "class": "group",
+      "id": "614F4A12-9F70-416B-A9C6-599FB8A973A1"
+    },
+    {
+      "class": "group",
+      "id": "2F38FD1A-C5C4-4A70-B421-3DA50515D16F"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CDB4446-D3FD-44CF-AAAF-E0A8F0E54DF0"
+    },
+    {
+      "class": "text",
+      "id": "28B01AD7-9B78-4E8E-9D41-905698F05ED4"
+    },
+    {
+      "class": "group",
+      "id": "8E67C879-06D0-4349-8D8F-8EE46995E8A2"
+    },
+    {
+      "class": "group",
+      "id": "CF262B07-C77E-44BC-A38F-6BA72A3C46E3"
     }
   ],
   "name": "Artboard--Mobile",

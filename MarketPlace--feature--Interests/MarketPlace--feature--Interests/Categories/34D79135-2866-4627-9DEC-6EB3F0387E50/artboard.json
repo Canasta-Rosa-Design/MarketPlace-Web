@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -64,7 +64,7 @@
       "id": "177FCD48-9A55-4BCF-B756-9720B48923D6"
     }
   ],
-  "name": "Artboard--Mobile/interest Copy",
+  "name": "Artboard--Mobile/firstLevel",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
