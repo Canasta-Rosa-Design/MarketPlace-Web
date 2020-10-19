@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 270,
+    "height": 65,
+    "width": 410,
     "x": 2,
     "y": 87
   },
@@ -39,6 +39,10 @@
     {
       "class": "symbolInstance",
       "id": "87187DAD-67F9-4609-9AF4-FE2AF102EBE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D98C80E1-DA14-4FA3-AD1A-239A76C8FE84"
     }
   ],
   "name": "Group",

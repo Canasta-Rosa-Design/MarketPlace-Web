@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Sarabun-SemiBold",
-              "size": 16
+              "name": "Sarabun-Regular",
+              "size": 13
             }
           },
           "paragraphStyle": {
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 52.00000000000001,
-    "width": 130,
-    "x": 0,
+    "width": 110,
+    "x": 10,
     "y": 0
   },
-  "glyphBounds": "{{32, 5}, {66, 16}}",
+  "glyphBounds": "{{30, 4}, {51, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C83C720E-B46B-4AEF-B622-1A4579B156D8",
+  "sharedStyleID": "79E6D554-30BB-4B6B-ABD9-1F05773BB8D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,8 +126,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Sarabun-SemiBold",
-            "size": 16
+            "name": "Sarabun-Regular",
+            "size": 13
           }
         },
         "paragraphStyle": {

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "87187DAD-67F9-4609-9AF4-FE2AF102EBE2",
+  "do_objectID": "D98C80E1-DA14-4FA3-AD1A-239A76C8FE84",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 65,
     "width": 130,
-    "x": 140,
+    "x": 280,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "CRCategoryCard/tag Copy",
+  "name": "CRCategoryCard/tag Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
@@ -76,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "19AC68FB-3DF1-4808-B2AB-6BA2E2F11910",
+    "do_objectID": "3DC2CB31-FD10-44CF-9473-6A6CE946C0AA",
     "endMarkerType": 0,
     "fills": [
     ],
