@@ -9,24 +9,20 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3372549019607843,
-            "green": 0.4705882352941176,
-            "red": 0.1294117647058823
+            "blue": 0.2431372549019608,
+            "green": 0.2156862745098039,
+            "red": 0.2156862745098039
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Sarabun-Regular",
-              "size": 11
+              "size": 13
             }
           },
-          "kerning": -0.7,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "_class": "paragraphStyle"
+          }
         },
         "length": 4,
         "location": 0
@@ -51,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
+    "height": 34,
     "width": 24,
     "x": 135.1547346519537,
     "y": 3
   },
-  "glyphBounds": "{{1, 4}, {24, 9}}",
+  "glyphBounds": "{{0, 4}, {19, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +75,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 12.59999990463257,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -122,24 +118,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3372549019607843,
-          "green": 0.4705882352941176,
-          "red": 0.1294117647058823
+          "blue": 0.2431372549019608,
+          "green": 0.2156862745098039,
+          "red": 0.2156862745098039
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Sarabun-Regular",
-            "size": 11
+            "size": 13
           }
         },
-        "kerning": -0.7,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 1
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },

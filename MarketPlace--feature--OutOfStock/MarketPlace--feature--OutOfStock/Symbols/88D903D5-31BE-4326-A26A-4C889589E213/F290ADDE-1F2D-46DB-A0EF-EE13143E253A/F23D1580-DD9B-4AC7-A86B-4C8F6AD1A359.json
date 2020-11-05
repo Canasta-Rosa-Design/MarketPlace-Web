@@ -21,8 +21,7 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1
+            "_class": "paragraphStyle"
           }
         },
         "length": 16,
@@ -53,7 +52,7 @@
     "x": 211,
     "y": 16
   },
-  "glyphBounds": "{{74, 4}, {91, 11}}",
+  "glyphBounds": "{{0, 4}, {91, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,8 +130,7 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 1
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0

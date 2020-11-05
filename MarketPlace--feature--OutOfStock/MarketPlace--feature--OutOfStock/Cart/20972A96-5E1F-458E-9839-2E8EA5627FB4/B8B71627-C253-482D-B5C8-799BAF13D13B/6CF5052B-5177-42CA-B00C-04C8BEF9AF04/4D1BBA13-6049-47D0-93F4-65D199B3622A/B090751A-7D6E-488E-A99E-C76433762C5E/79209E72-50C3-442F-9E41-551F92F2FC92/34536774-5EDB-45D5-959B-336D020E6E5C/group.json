@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "34536774-5EDB-45D5-959B-336D020E6E5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 321,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BE4BB2DA-718B-4C1A-A65B-F1D6D5E464E6"
+    }
+  ],
+  "name": "CartStoreCard/mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BCB2308D-CE65-4E51-AF81-5DA1964EBC57",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "151F132C-7ABE-4B90-9ABF-D24084E78810",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 365,
+          "width": 320,
+          "x": 0,
+          "y": 240
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "83463522-C964-4A11-8001-9C5BC44FE753",
+        "symbolID": "7B581964-C496-4876-BBAA-747A768C8E04"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "151F132C-7ABE-4B90-9ABF-D24084E78810",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 365,
+          "width": 320,
+          "x": 0,
+          "y": 240
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "83463522-C964-4A11-8001-9C5BC44FE753",
+        "symbolID": "7B581964-C496-4876-BBAA-747A768C8E04"
+      }
+    }
+  }
+}

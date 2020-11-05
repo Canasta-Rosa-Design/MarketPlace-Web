@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "B3B1DA94-73A2-46A2-963F-080330C0EE7C",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -195,13 +198,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "9C8DFFBA-71B9-46A2-963F-030130E19711",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.1",
-    "build": 102560,
-    "version": 131
+    "appVersion": "69.1",
+    "build": 107496,
+    "version": 134
   },
   "pages": [
     "Page 1",
@@ -209,6 +213,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "8A81FBBA-71B9-46A2-963F-030130E1991D",
     "objects": [
     ]
   },
@@ -218,7 +223,7 @@
         "5e0f8cfb8673a510135e3fd9": {
           "name": "Canasta DS",
           "styleguideId": "5e0f8cfb8673a510135e3fd9",
-          "updatedOn": "2020-09-28 23:46:59 +0000"
+          "updatedOn": "2020-10-21 23:16:57 +0000"
         },
         "null": {
           "layerStylesMap": {

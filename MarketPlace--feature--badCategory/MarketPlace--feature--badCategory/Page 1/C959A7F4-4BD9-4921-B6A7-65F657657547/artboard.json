@@ -70,32 +70,8 @@
       "id": "CA103147-9446-4D3A-B2B0-7DFE4AAA150E"
     },
     {
-      "class": "rectangle",
-      "id": "50D306BD-42CE-40E7-A647-B091BC4E9E52"
-    },
-    {
-      "class": "text",
-      "id": "7BF6C8FA-2FE8-4B5E-ACD2-6FE21E89E53E"
-    },
-    {
       "class": "group",
-      "id": "99497878-D228-4A36-BADC-A71E28BF5C32"
-    },
-    {
-      "class": "shapePath",
-      "id": "6453B286-4120-4405-A6EB-D992F238A9E2"
-    },
-    {
-      "class": "shapePath",
-      "id": "D9EDE3D0-17C8-4262-BB8E-3EF12DE35C60"
-    },
-    {
-      "class": "group",
-      "id": "D97A7745-BE21-4D69-816E-D09A2A93DCE7"
-    },
-    {
-      "class": "group",
-      "id": "0BDA6420-E3AB-483B-8A6D-7CE3A6C18427"
+      "id": "4FAA2FE4-A14D-467D-84DF-19E9773CB92C"
     }
   ],
   "layout": {

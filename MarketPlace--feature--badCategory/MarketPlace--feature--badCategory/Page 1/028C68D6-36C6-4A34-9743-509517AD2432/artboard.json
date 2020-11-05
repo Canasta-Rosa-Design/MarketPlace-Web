@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2035,
+    "height": 1455,
     "width": 320,
     "x": 2117,
     "y": 150
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,24 +56,20 @@
       "id": "4B916968-86DA-4AF5-A9AC-78CA64CF0334"
     },
     {
-      "class": "group",
-      "id": "0D99FF7F-12D7-40D3-8B4E-AFB066D42C3B"
-    },
-    {
-      "class": "shapePath",
-      "id": "43569978-0734-4BA2-AA6A-09B898B529EC"
-    },
-    {
-      "class": "group",
-      "id": "98A2CCF9-8D0C-4E1D-9680-EFB50221DEEC"
-    },
-    {
       "class": "symbolInstance",
       "id": "EC1B7F46-E9B3-48D8-B1AD-9FE365B9059D"
     },
     {
       "class": "group",
-      "id": "AA740A1E-E990-4E7F-AD0A-BB0B6DD37EF9"
+      "id": "4749705D-5E56-47CA-BD92-B0D9D97F893E"
+    },
+    {
+      "class": "shapePath",
+      "id": "71C574AE-AC9A-4F86-A497-1811B908259F"
+    },
+    {
+      "class": "bitmap",
+      "id": "AA0D7CE8-D5FF-41F8-8395-750A606F7F87"
     }
   ],
   "name": "Artboard--Mobile",

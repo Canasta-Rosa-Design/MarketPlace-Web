@@ -1,0 +1,172 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C78B044B-2CF0-4084-868C-132C629A4450",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 1280,
+    "x": -256,
+    "y": 254
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9C298BBA-3ECC-46D7-8602-3EA5E8C4ABFB/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/344854d13e1474105b99e42b1bf2d8c8bb1de2c4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9C298BBA-3ECC-46D7-8602-3EA5E8C4ABFB/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Diseño"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8614C4F3-D55B-4E12-8EB4-433A5E5BB763/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4d794a8447bf576034bf858a722e8a4b2528d647.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3EA0B20-6F12-418A-B315-D18FF3CF527E/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0c446b45d0aae2d23b87bd1de94807cdfdf82058.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B9733DE-B2B4-4CC3-8A27-A16DD7538523/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2e853e410c91a87727c211aca27b860c9f3198ba.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B9733DE-B2B4-4CC3-8A27-A16DD7538523/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Ropa y calzado"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8614C4F3-D55B-4E12-8EB4-433A5E5BB763/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Joyería"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3EA0B20-6F12-418A-B315-D18FF3CF527E/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Fitness"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82C429DE-105C-4C78-A2EE-6284392E3781/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dc363a1514733e4d7f8a92e42b7ebae7a2aaf825.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82C429DE-105C-4C78-A2EE-6284392E3781/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Postres"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "23647882-E938-436C-915D-E1C733205E59/F21C34F6-4F15-467D-A99F-A0733056B4FC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b297bcc98e37427b8544f0308e0426cda2acde2f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "23647882-E938-436C-915D-E1C733205E59/9B291BE9-ED08-4C91-88BC-07B312199977_stringValue",
+      "value": "Flores"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "770CFEA5-AE57-4F9B-92A1-DE950513654A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "867AF7FA-EA96-426A-9712-92E004B93F11",
+  "verticalSpacing": 0
+}
